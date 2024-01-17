@@ -4,6 +4,20 @@ use matlab language to do a simple face recognition
 
 
 # File Tree structure
-<img width="174" alt="image" src="https://github.com/mu1guo/matlab_face_recognition/assets/109458325/381ab81c-b8ff-4cc2-b46a-b4d1c73694c9">
-
+├─code
+│      best.mat
+│      dataset_gen.m
+│      face_detect.m
+│      raw_face.zip
+│      test_dataset.zip
+│      train_dataset.zip
+│
+├─output_img
+│      k_15.jpg
+│      k_25.jpg
+│      k_35.jpg
+│      正确率表格.png
+│
+└─pdf_submit
+        face_submit.pdf
 
